@@ -1,0 +1,13 @@
+## Tổng quan về các phần sẽ được trình bày trong cuốn sách 
+- Map reduce và new software stack 
+- Finding similar item (trình bày dạng các use case và hướng giải quyết) 
+- Mining data streams (trình bày dạng các tình huống và câu hỏi) 
+- Link analysis
+- Frequent items
+- Clustering 
+- Advertising on Web
+- Recommendation system 
+- Mining social network graph 
+- Dimension reduction
+- Large scale machine learning
+- Deep learning 
